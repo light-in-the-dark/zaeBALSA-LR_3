@@ -1,7 +1,4 @@
-#include "MainForm.h"
-
-using namespace System;
-using namespace System::Windows::Forms;
+#include "libraries.h"
 
 [STAThreadAttribute]
 int main(array<String^>^ args)
